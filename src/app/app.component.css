@@ -8,3 +8,9 @@
 {
     color: #E50914;
 }
+
+img.logo {
+    width: 186px;
+    border-radius: 105px;
+    filter: invert(1);
+}
